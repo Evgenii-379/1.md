@@ -29,10 +29,10 @@
 
 ## **Скриншот с демонстрацией плавающего IP**
 
-- ![scrinshot](https://github.com/1.md/blob/main/Снимок%20экрана%202024-01-31%20202401.png)
-- ![scrinshot](https://github.com/1.md/blob/main/Снимок%20экрана%202024-01-31%20202524.png)
-- ![scrinshot](https://github.com/1.md/blob/main/Снимок%20экрана%202024-01-31%20202709.png)
-- ![scrinshot](https://github.com/1.md/blob/main/Снимок%20экрана%202024-01-31%20202811.png)
+- ![scrinshot](https://github.com/Evgenii-379/1.md/blob/main/Снимок%20экрана%202024-01-31%20202401.png)
+- ![scrinshot](https://github.com/Evgenii-379/1.md/blob/main/Снимок%20экрана%202024-01-31%20202524.png)
+- ![scrinshot](https://github.com/Evgenii-379/1.md/blob/main/Снимок%20экрана%202024-01-31%20202709.png)
+- ![scrinshot](https://github.com/Evgenii-379/1.md/blob/main/Снимок%20экрана%202024-01-31%20202811.png)
 
 
 
